@@ -1,0 +1,15 @@
+@import 'tailwindcss/base';
+@import 'tailwindcss/components';
+@import 'tailwindcss/utilities';
+
+
+*{
+    font-family: 'Montserrat', sans-serif;
+}
+
+.header-bg{
+    background: url(assets/background.png);
+    background-repeat: none;
+    background-size: cover;
+}
+
